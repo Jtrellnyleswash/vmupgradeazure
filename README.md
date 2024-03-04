@@ -1,5 +1,4 @@
 # vmupgradeazure
-# vmupgradeazure
 <p align="center">
 <img src="https://i.imgur.com/hbO1sQ3.png" alt="Azure Logo"/>
 </p>
